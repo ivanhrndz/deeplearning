@@ -4,4 +4,4 @@ channels:
 dependencies:
   - numpy
   - pytorch-cpu
-  - torchvision-cpu
+  - torchvision
